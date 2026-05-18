@@ -6,6 +6,8 @@ REG NO: 212224240175
 ```
 
 ### AIM:
+To implement the Holt Winters Method Model using Python.
+
 
 ### ALGORITHM:
 1. You import the necessary libraries
